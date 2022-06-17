@@ -37,7 +37,7 @@
 </h3>
 
 <p align="center">
-<a href="@DARK_X_CHATTINGZONE"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Dark_X_ChattingZone"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
