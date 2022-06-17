@@ -37,11 +37,11 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="@DARK_X_CHATTINGZONE"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/anonymous_was_bot"><img src="https://img.shields.io/badge/%20Anonymous-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/NARUT0XD"><img src="https://img.shields.io/badge/%20Nᴀʀᴜᴛᴏ-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
